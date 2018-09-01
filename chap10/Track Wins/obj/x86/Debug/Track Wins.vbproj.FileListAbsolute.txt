@@ -1,0 +1,11 @@
+C:\Users\Marcio Sousa\source\repos\Vb10sbs\chap10\Track Wins\bin\Debug\Track Wins.exe
+C:\Users\Marcio Sousa\source\repos\Vb10sbs\chap10\Track Wins\bin\Debug\Track Wins.pdb
+C:\Users\Marcio Sousa\source\repos\Vb10sbs\chap10\Track Wins\bin\Debug\Track Wins.xml
+C:\Users\Marcio Sousa\source\repos\Vb10sbs\chap10\Track Wins\obj\x86\Debug\Track Wins.vbprojAssemblyReference.cache
+C:\Users\Marcio Sousa\source\repos\Vb10sbs\chap10\Track Wins\obj\x86\Debug\TrackWins.Form1.resources
+C:\Users\Marcio Sousa\source\repos\Vb10sbs\chap10\Track Wins\obj\x86\Debug\TrackWins.Resources.resources
+C:\Users\Marcio Sousa\source\repos\Vb10sbs\chap10\Track Wins\obj\x86\Debug\Track Wins.vbproj.GenerateResource.cache
+C:\Users\Marcio Sousa\source\repos\Vb10sbs\chap10\Track Wins\obj\x86\Debug\Track Wins.vbproj.CoreCompileInputs.cache
+C:\Users\Marcio Sousa\source\repos\Vb10sbs\chap10\Track Wins\obj\x86\Debug\Track Wins.exe
+C:\Users\Marcio Sousa\source\repos\Vb10sbs\chap10\Track Wins\obj\x86\Debug\Track Wins.xml
+C:\Users\Marcio Sousa\source\repos\Vb10sbs\chap10\Track Wins\obj\x86\Debug\Track Wins.pdb

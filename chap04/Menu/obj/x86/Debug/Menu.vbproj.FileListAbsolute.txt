@@ -1,0 +1,10 @@
+C:\Vb10sbs\chap04\Menu\bin\Debug\Menu.exe
+C:\Vb10sbs\chap04\Menu\bin\Debug\Menu.pdb
+C:\Vb10sbs\chap04\Menu\bin\Debug\Menu.xml
+C:\Vb10sbs\chap04\Menu\obj\x86\Debug\Menu.Form1.resources
+C:\Vb10sbs\chap04\Menu\obj\x86\Debug\Menu.Resources.resources
+C:\Vb10sbs\chap04\Menu\obj\x86\Debug\Menu.vbproj.GenerateResource.cache
+C:\Vb10sbs\chap04\Menu\obj\x86\Debug\Menu.vbproj.CoreCompileInputs.cache
+C:\Vb10sbs\chap04\Menu\obj\x86\Debug\Menu.exe
+C:\Vb10sbs\chap04\Menu\obj\x86\Debug\Menu.xml
+C:\Vb10sbs\chap04\Menu\obj\x86\Debug\Menu.pdb

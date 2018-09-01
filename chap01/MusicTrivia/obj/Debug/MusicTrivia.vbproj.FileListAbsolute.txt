@@ -1,0 +1,10 @@
+C:\Vb10sbs\chap01\MusicTrivia\bin\Debug\MusicTrivia.exe
+C:\Vb10sbs\chap01\MusicTrivia\bin\Debug\MusicTrivia.pdb
+C:\Vb10sbs\chap01\MusicTrivia\bin\Debug\MusicTrivia.xml
+C:\Vb10sbs\chap01\MusicTrivia\obj\Debug\MusicTrivia.MusicTrivia.resources
+C:\Vb10sbs\chap01\MusicTrivia\obj\Debug\MusicTrivia.Resources.resources
+C:\Vb10sbs\chap01\MusicTrivia\obj\Debug\MusicTrivia.vbproj.GenerateResource.cache
+C:\Vb10sbs\chap01\MusicTrivia\obj\Debug\MusicTrivia.vbproj.CoreCompileInputs.cache
+C:\Vb10sbs\chap01\MusicTrivia\obj\Debug\MusicTrivia.exe
+C:\Vb10sbs\chap01\MusicTrivia\obj\Debug\MusicTrivia.xml
+C:\Vb10sbs\chap01\MusicTrivia\obj\Debug\MusicTrivia.pdb
